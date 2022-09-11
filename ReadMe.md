@@ -23,7 +23,7 @@ Develop a .NET library assembly (DLL) for a system that handles the employee hie
 > The Algorithm used is **Directed Graphs**. The graph is represented using the **Adjacency List representation**. The graph stores each employee's id with all the ids of employees under him/her.
 > To get the total Budget a DFS search is Performed getting employees ids. Then add their salary and return total salary.
 
-# Test Plan
+# UnitTest Plan
 
 | Scenario                                            | input      | Expected                                                                                             | Result |
 | --------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------- | ------ |
