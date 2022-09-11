@@ -34,7 +34,7 @@
 
         public override bool Equals(object obj)
         {
-            Employee emp1 = (Employee) obj;
+            Employee emp1 = (Employee)obj;
             return (emp1.Id.ToUpper().Equals(Id.ToUpper()));
         }
     }

@@ -37,8 +37,4 @@ Develop a .NET library assembly (DLL) for a system that handles the employee hie
 | employee contains negative Salary                   | test4.csv  | The Graph should be Empty since one of the salary is negative                                        | passed |
 | there is no manager                                 | test5.csv  | Graph should be empty since no manager or ceo                                                        | passed |
 
-<!-- # Class Diagram -->
-
-<!-- ![Class Digram](ClassDiagram.png) -->
-
 **Task Accomplished By Nicholas Kipkoech Ngetich**
